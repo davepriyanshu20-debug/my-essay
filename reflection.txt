@@ -1,0 +1,9 @@
+Reflection Questions
+
+1. Which method helps you understand your changes better?
+
+GitHub helps me understand changes better because it shows a visual history of commits and what changed in each one.
+
+2. Can you see how your essay developed over time?
+
+Yes. I can clearly see the essay building step by step through each commit (title, introduction, body).
